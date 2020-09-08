@@ -20,7 +20,7 @@ In MultiMC drückst du auf `Instanz Bearbeiten`, dann auf `Andere Logs`, wählst
 
 ### Andere Launcher
 
-*Hey du solltest überlegen zu [MultiMC](https://multimc.org/) zu wechseln. Damit geht vieles rund um Minecraft viel einfacher und du kannst auch ganz einfach ModpAcks von curseforge installieren.*
+*Hey du solltest überlegen zu [MultiMC](https://multimc.org/) zu wechseln. Damit geht vieles rund um Minecraft viel einfacher und du kannst auch ganz einfach ModPacks von curseforge installieren.*
 
 In deinem `.minecraft` Ordner gibt es den Ordner `logs`. Darin befindet sich eine Datei namens `latest.log` Diese lädst du dann auf einer der Seiten hoch.
 
