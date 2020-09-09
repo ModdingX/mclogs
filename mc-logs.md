@@ -1,4 +1,4 @@
-# Minercraft Logs
+# Minecraft Logs
 
 Wenn du ein Problem mit Minecraft hast und möchtest, dass andere die Helfen musst du den Minecraft Log hochladen. Der Minecraft Log enthält Informationen und detaillierte Fehlermeldungen um herauszufinden was der Fehler ist.
 
