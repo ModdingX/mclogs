@@ -16,7 +16,7 @@ Du solltest den log erst hochladen, wenn Minecraft wieder beendet wurde oder gec
 
 ### MultiMC
 
-In MultiMC drückst du auf `Instanz Bearbeiten`, dann auf `Andere Logs`, wählst oben `logs/latest.log` und klickst dann auf Hochladen. Du bekommst dann einen Link, den du posten kannst.
+In MultiMC drückst du auf `Instanz Bearbeiten`, dann auf `Andere Logs`, wählst oben `logs/latest.log` und klickst dann auf Hochladen. Du bekommst dann einen Link, den du posten kannst. Alter nativ kannst du auch im Tab `Minecraft Log` Oben rechts auf `Hochladen` klicken.
 
 ### Andere Launcher
 
