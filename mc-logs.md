@@ -6,8 +6,9 @@ Wenn du ein Problem mit Minecraft hast und möchtest, dass andere die Helfen mus
 
 Es gibt verschiedene Websites, wo man log-Dateien hochladen kann und dann einen Link dazu posten kann. Bitte **nie** den Log als lange Nachricht in einen Chat posten!
 
-  * [https://gist.github.com](https://gist.github.com)
   * [https://pastebin.com](https://pastebin.com)
+  * [https://hastebin.com](https://hastebin.com)
+  * [https://gist.github.com](https://gist.github.com)
   * Und viele mehr.
   
 ## Wie komme ich an den Log?
