@@ -25,7 +25,7 @@ Now choose `logs/latest.log` in the selector at the top and click on `Upload`.
 You'll get a link that you can post.
 Alternatively you can directly press `Upload` in the `Minecraft Log` tab.
 
-### Andere Launcher
+### Other Launchers
 
 *Hey you should think about switching to [MultiMC](https://multimc.org/).
 It makes many things related to minecraft much easier and you can also easily install ModPacks from CurseForge.*
