@@ -1,3 +1,5 @@
+Other languages: [German](#file-mc-logs-de.md)
+
 # Minecraft Logs
 
 If you've a problem with minecraft and you want help from others, you need to send you minecraft log.
