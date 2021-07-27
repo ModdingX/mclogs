@@ -1,4 +1,4 @@
-Other languages: [German](#file-mc-logs-de.md)
+Other languages: [German](#file-mc-logs-de-md)
 
 # Minecraft Logs
 
