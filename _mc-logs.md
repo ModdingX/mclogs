@@ -1,6 +1,6 @@
 # Minecraft Logs
 
-If hou've a problem with minecraft and you want help from others, you need to send you minecraft log.
+If you've a problem with minecraft and you want help from others, you need to send you minecraft log.
 The log contains information and detailed error messages that help finding out what the error is.
 
 ## How can I upload the log?
