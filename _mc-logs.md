@@ -1,5 +1,6 @@
 Other languages: [German](#file-de-md)
 
+<a name="en"></a>
 # Minecraft Logs
 
 If you've a problem with minecraft and you want help from others, you need to send you minecraft log.
