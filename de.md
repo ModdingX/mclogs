@@ -1,3 +1,5 @@
+# [🇬🇧](#en) [🇩🇪](#de)
+
 <a name="de"></a>
 # Minecraft Logs
 

@@ -1,4 +1,4 @@
-Other languages: [German](#file-de-md)
+# [🇬🇧](#en) [🇩🇪](#de)
 
 <a name="en"></a>
 # Minecraft Logs
