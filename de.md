@@ -3,10 +3,10 @@
 <a name="de"></a>
 # Minecraft Logs
 
-Wenn du ein Problem mit Minecraft hast und möchtest, dass andere dir Helfen, musst du den Minecraft Log hochladen.
+Wenn du ein Problem mit Minecraft hast und möchtest, dass andere dir helfen, musst du den Minecraft Log hochladen.
 Der Minecraft Log enthält Informationen und detaillierte Fehlermeldungen um herauszufinden was der Fehler ist.
 
-## Wie lade ich den log hoch?
+## Wie lade ich den Log hoch?
 
 Es gibt verschiedene Websites, wo man Log-Dateien hochladen kann und dann einen Link dazu posten kann.
 Bitte **nie** den Log als lange Nachricht in einen Chat posten!
