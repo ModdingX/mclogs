@@ -33,7 +33,7 @@ Alternatively you can directly press `Upload` in the `Minecraft Log` tab.
 *Hey you should think about switching to [MultiMC](https://multimc.org/).
 It makes many things related to minecraft much easier and you can also easily install ModPacks from CurseForge.*
 
-In you `.minecraft` folder, you'll find a folder named `logs`.
+In your `.minecraft` folder, you'll find a folder named `logs`.
 Inside that there's a file called `latest.log`.
 You need to upload that file to one of the websites linked above.
 
