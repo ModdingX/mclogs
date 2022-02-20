@@ -3,8 +3,8 @@
 <a name="en"></a>
 # Minecraft Logs
 
-If you've a problem with minecraft and you want help from others, you need to send you minecraft log.
-The log contains information and detailed error messages that help finding out what the error is.
+If you've a problem with minecraft, and you want help from others, you need to send your minecraft log.
+The log contains information and detailed error messages that help to find out what the error is.
 
 ## How can I upload the log?
 
@@ -27,12 +27,12 @@ Before uploading the log, you should stop the game if it did not crash.
 If you're using MultiMC, click on `Edit Instance`, then on `Other logs`.
 Now choose `logs/latest.log` in the selector at the top and click on `Upload`.
 You'll get a link that you can post.
-Alternatively you can directly press `Upload` in the `Minecraft Log` tab.
+Alternatively, you can directly press `Upload` in the `Minecraft Log` tab.
 
 ### Other Launchers
 
-*Hey you should think about switching to [MultiMC](https://multimc.org/).
-It makes many things related to minecraft much easier and you can also easily install ModPacks from CurseForge.*
+*Hey, you should think about switching to [MultiMC](https://multimc.org/).
+It makes many things related to minecraft much easier, and you can also easily install ModPacks from CurseForge.*
 
 In your `.minecraft` folder, you'll find a folder named `logs`.
 Inside that there's a file called `latest.log`.
