@@ -1,0 +1,36 @@
+name: Build
+on:
+  push:
+    branches:
+      - 'master'
+
+jobs:
+  deploy:
+    if: startsWith(github.repository, 'ModdingX/') # don't run this in forks
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout'
+        uses: actions/checkout@v2
+        with:
+          path: base
+
+      - name: 'Remove files not needed in gist'
+        shell: bash
+        working-directory: base
+        run: |
+          rm -rf .github .gitignore .gitattributes README.md LICENSE
+         
+      - name: 'Commit'
+        shell: bash
+        working-directory: base
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "Deploy" -a
+          
+      - name: 'Push to gist''
+          uses: ad-m/github-push-action@master
+          with:
+            github_token: ${{ secrets.GIST_TOKEN }}
+            force: true
+            repository: https://gist.github.com/61eebcebf505f065f1fcf9064a737fb5.git
