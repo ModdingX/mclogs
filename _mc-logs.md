@@ -13,8 +13,9 @@ You'll then get a link you can post in a help channel.
 **Never** send the log as one long message.
 
   * [https://pastebin.com](https://pastebin.com)
-  * [https://hastebin.com](https://hastebin.com)
   * [https://gist.github.com](https://gist.github.com)
+  * [https://paste.ee](https://paste.ee)
+  * [https://paste.gemwire.uk](https://paste.gemwire.uk)
   * And many more.
   
 ## How to I find the log?

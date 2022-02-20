@@ -12,8 +12,9 @@ Es gibt verschiedene Websites, wo man Log-Dateien hochladen kann und dann einen 
 Bitte **nie** den Log als lange Nachricht in einen Chat posten!
 
   * [https://pastebin.com](https://pastebin.com)
-  * [https://hastebin.com](https://hastebin.com)
   * [https://gist.github.com](https://gist.github.com)
+  * [https://paste.ee](https://paste.ee)
+  * [https://paste.gemwire.uk](https://paste.gemwire.uk)
   * Und viele mehr.
   
 ## Wie komme ich an den Log?
