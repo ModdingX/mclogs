@@ -27,7 +27,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          git remote set-url origin https://noeppi-noeppi:${{ GIST_TOKEN }}@gist.github.com/61eebcebf505f065f1fcf9064a737fb5.git
+          git remote set-url origin https://noeppi-noeppi:${{ secrets.GIST_TOKEN }}@gist.github.com/61eebcebf505f065f1fcf9064a737fb5.git
           git add -A
           git diff-index --quiet HEAD || git commit -m 'Deploy'
           git push --force
