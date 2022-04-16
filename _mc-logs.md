@@ -23,25 +23,48 @@ You'll then get a link you can post in a help channel.
 Before uploading the log, you should stop the game if it did not crash.
 
 ### CurseForge
+
+<a name="curseforge"></a>
+<details>
+<summary>Show</summary>
+
 If you're using CurseForge, right-click your modpack profile, then `Open Folder`.
 There, you'll find a folder named `logs`.
 Inside that there's a file called `latest.log`.
 You need to upload that file to one of the websites linked above.
+</details>
 
 ### GD Launcher
+
+<a name="gd launcher"></a>
+<details>
+<summary>Show</summary>
+
 If you're using GD Launcher, right-click your modpack profile, then `Open Folder`.
 There, you'll find a folder named `logs`.
 Inside that there's a file called `latest.log`.
 You need to upload that file to one of the websites linked above.
 
+</details>
+
 ### MultiMC
+
+<a name="multimc"></a>
+<details>
+<summary>Show</summary>
 
 If you're using MultiMC, click on `Edit Instance`, then on `Other logs`.
 Now choose `logs/latest.log` in the selector at the top and click on `Upload`.
 You'll get a link that you can post.
 Alternatively, you can directly press `Upload` in the `Minecraft Log` tab.
 
+</details>
+
 ### FTB App
+
+<a name="ftb app"></a>
+<details>
+<summary>Show</summary>
 
 If you're using FTB App, click on your modpack profile, then `Settings` in the top right corner. After that, you press
 `Open Folder` in the bottom left corner.
@@ -49,7 +72,13 @@ There, you'll find a folder named `logs`.
 Inside that there's a file called `latest.log`.
 You need to upload that file to one of the websites linked above.
 
+</details>
+
 ### Other Launchers
+
+<a name="other"></a>
+<details>
+<summary>Show</summary>
 
 *Hey, you should think about switching to [MultiMC](https://multimc.org/).
 It makes many things related to minecraft much easier, and you can also easily install ModPacks from CurseForge.*
@@ -58,9 +87,11 @@ In your `.minecraft` folder, you'll find a folder named `logs`.
 Inside that there's a file called `latest.log`.
 You need to upload that file to one of the websites linked above.
 
+</details>
+
 ### Important
 
-  * **Without providing a log, you shouldn't expect any help.**
-    However, if you've problems finding the log, don't hesitate to ask for help.
-  * **If you post your log as a long message into chat, you shouldn't expect any help.**
-  * **The LOG is not the same as the CRASH REPORT. Please read the instructions above.**
+* **Without providing a log, you shouldn't expect any help.**
+  However, if you've problems finding the log, don't hesitate to ask for help.
+* **If you post your log as a long message into chat, you shouldn't expect any help.**
+* **The LOG is not the same as the CRASH REPORT. Please read the instructions above.**
