@@ -23,7 +23,6 @@ Du solltest den Log erst hochladen, wenn Minecraft wieder beendet wurde oder gec
 
 ### CurseForge
 
-<a name="curseforge"></a>
 <details>
 <summary>Anzeigen</summary>
 
@@ -36,7 +35,6 @@ Diese lädst du dann auf einer der Seiten hoch.
 
 ### GD Launcher
 
-<a name="gd launcher"></a>
 <details>
 <summary>Anzeigen</summary>
 
@@ -49,7 +47,6 @@ Diese lädst du dann auf einer der Seiten hoch.
 
 ### MultiMC
 
-<a name="multimc"></a>
 <details>
 <summary>Anzeigen</summary>
 
@@ -62,12 +59,11 @@ Alternativ kannst du auch im Tab `Minecraft Log` oben rechts auf `Hochladen` kli
 
 ### FTB App
 
-<a name="ftb app"></a>
 <details>
 <summary>Anzeigen</summary>
 
 In der FTP App klickst du dein Modpack-Profil an, dort rechts oben auf `Settings`, anschließend links unten
-auf `OpenFolder`.
+auf `Open Folder`.
 Dort gibt es den Ordner `logs`.
 Darin befindet sich eine Datei namens `latest.log`.
 Diese lädst du dann auf einer der Seiten hoch.
@@ -76,7 +72,6 @@ Diese lädst du dann auf einer der Seiten hoch.
 
 ### Andere Launcher
 
-<a name="ftb app"></a>
 <details>
 <summary>Anzeigen</summary>
 

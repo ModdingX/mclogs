@@ -24,7 +24,6 @@ Before uploading the log, you should stop the game if it did not crash.
 
 ### CurseForge
 
-<a name="curseforge"></a>
 <details>
 <summary>Show</summary>
 
@@ -36,7 +35,6 @@ You need to upload that file to one of the websites linked above.
 
 ### GD Launcher
 
-<a name="gd launcher"></a>
 <details>
 <summary>Show</summary>
 
@@ -49,7 +47,6 @@ You need to upload that file to one of the websites linked above.
 
 ### MultiMC
 
-<a name="multimc"></a>
 <details>
 <summary>Show</summary>
 
@@ -62,7 +59,6 @@ Alternatively, you can directly press `Upload` in the `Minecraft Log` tab.
 
 ### FTB App
 
-<a name="ftb app"></a>
 <details>
 <summary>Show</summary>
 
@@ -76,7 +72,6 @@ You need to upload that file to one of the websites linked above.
 
 ### Other Launchers
 
-<a name="other"></a>
 <details>
 <summary>Show</summary>
 
