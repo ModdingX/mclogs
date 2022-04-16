@@ -12,15 +12,21 @@ There is a variety of websites where it's possible to upload log files.
 You'll then get a link you can post in a help channel.
 **Never** send the log as one long message.
 
-  * [https://pastebin.com](https://pastebin.com)
-  * [https://gist.github.com](https://gist.github.com)
-  * [https://paste.ee](https://paste.ee)
-  * [https://paste.gemwire.uk](https://paste.gemwire.uk)
-  * And many more.
-  
+* [https://pastebin.com](https://pastebin.com)
+* [https://gist.github.com](https://gist.github.com)
+* [https://paste.ee](https://paste.ee)
+* [https://paste.gemwire.uk](https://paste.gemwire.uk)
+* And many more.
+
 ## How to I find the log?
 
 Before uploading the log, you should stop the game if it did not crash.
+
+### CurseForge
+If you're using CurseForge, right-click your modpack profile, then `Open Folder`.
+There, you'll find a folder named `logs`.
+Inside that there's a file called `latest.log`.
+You need to upload that file to one of the websites linked above.
 
 ### MultiMC
 

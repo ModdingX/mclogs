@@ -11,19 +11,27 @@ Der Minecraft Log enthält Informationen und detaillierte Fehlermeldungen, um he
 Es gibt verschiedene Websites, wo man Log-Dateien hochladen kann und dann einen Link dazu posten kann.
 Bitte **nie** den Log als lange Nachricht in einen Chat posten!
 
-  * [https://pastebin.com](https://pastebin.com)
-  * [https://gist.github.com](https://gist.github.com)
-  * [https://paste.ee](https://paste.ee)
-  * [https://paste.gemwire.uk](https://paste.gemwire.uk)
-  * Und viele mehr.
-  
+* [https://pastebin.com](https://pastebin.com)
+* [https://gist.github.com](https://gist.github.com)
+* [https://paste.ee](https://paste.ee)
+* [https://paste.gemwire.uk](https://paste.gemwire.uk)
+* Und viele mehr.
+
 ## Wie komme ich an den Log?
 
 Du solltest den Log erst hochladen, wenn Minecraft wieder beendet wurde oder gecrashed ist.
 
+### CurseForge
+
+In CurseForge machst du einen Rechts-Klick auf das Modpack-Profil, dann auf `Ordner öffnen`.
+Dort gibt es den Ordner `logs`.
+Darin befindet sich eine Datei namens `latest.log`.
+Diese lädst du dann auf einer der Seiten hoch.
+
 ### MultiMC
 
-In MultiMC drückst du auf `Instanz Bearbeiten`, dann auf `Andere Logs`, wählst oben `logs/latest.log` und klickst dann auf `Hochladen`.
+In MultiMC drückst du auf `Instanz Bearbeiten`, dann auf `Andere Logs`, wählst oben `logs/latest.log` und klickst dann
+auf `Hochladen`.
 Du bekommst dann einen Link, den du posten kannst.
 Alternativ kannst du auch im Tab `Minecraft Log` oben rechts auf `Hochladen` klicken.
 
