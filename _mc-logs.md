@@ -41,6 +41,14 @@ Now choose `logs/latest.log` in the selector at the top and click on `Upload`.
 You'll get a link that you can post.
 Alternatively, you can directly press `Upload` in the `Minecraft Log` tab.
 
+### FTB App
+
+If you're using FTB App, click on your modpack profile, then `Settings` in the top right corner. After that, you press
+`Open Folder` in the bottom left corner.
+There, you'll find a folder named `logs`.
+Inside that there's a file called `latest.log`.
+You need to upload that file to one of the websites linked above.
+
 ### Other Launchers
 
 *Hey, you should think about switching to [MultiMC](https://multimc.org/).

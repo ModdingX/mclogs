@@ -42,10 +42,19 @@ auf `Hochladen`.
 Du bekommst dann einen Link, den du posten kannst.
 Alternativ kannst du auch im Tab `Minecraft Log` oben rechts auf `Hochladen` klicken.
 
+### FTB App
+
+In der FTP App klickst du dein Modpack-Profil an, dort rechts oben auf `Settings`, anschließend links unten
+auf `OpenFolder`.
+Dort gibt es den Ordner `logs`.
+Darin befindet sich eine Datei namens `latest.log`.
+Diese lädst du dann auf einer der Seiten hoch.
+
 ### Andere Launcher
 
 *Hey du solltest überlegen zu [MultiMC](https://multimc.org/) zu wechseln.
-Damit geht vieles rund um Minecraft viel einfacher und du kannst auch ganz einfach ModPacks von CurseForge installieren.*
+Damit geht vieles rund um Minecraft viel einfacher und du kannst auch ganz einfach ModPacks von CurseForge
+installieren.*
 
 In deinem `.minecraft` Ordner gibt es den Ordner `logs`.
 Darin befindet sich eine Datei namens `latest.log`.
