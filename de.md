@@ -45,7 +45,7 @@ Diese lädst du dann auf einer der Seiten hoch.
 
 </details>
 
-### MultiMC
+### MultiMC / PolyMC
 
 <details>
 <summary>Anzeigen</summary>

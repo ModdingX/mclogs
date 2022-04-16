@@ -45,7 +45,7 @@ You need to upload that file to one of the websites linked above.
 
 </details>
 
-### MultiMC
+### MultiMC / PolyMC
 
 <details>
 <summary>Show</summary>
