@@ -28,6 +28,13 @@ Dort gibt es den Ordner `logs`.
 Darin befindet sich eine Datei namens `latest.log`.
 Diese lädst du dann auf einer der Seiten hoch.
 
+### GD Launcher
+
+Im GD Launcher machst du einen Rechts-Klick auf das Modpack-Profil, dann auf `Open Folder`.
+Dort gibt es den Ordner `logs`.
+Darin befindet sich eine Datei namens `latest.log`.
+Diese lädst du dann auf einer der Seiten hoch.
+
 ### MultiMC
 
 In MultiMC drückst du auf `Instanz Bearbeiten`, dann auf `Andere Logs`, wählst oben `logs/latest.log` und klickst dann

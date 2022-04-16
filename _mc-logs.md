@@ -28,6 +28,12 @@ There, you'll find a folder named `logs`.
 Inside that there's a file called `latest.log`.
 You need to upload that file to one of the websites linked above.
 
+### GD Launcher
+If you're using GD Launcher, right-click your modpack profile, then `Open Folder`.
+There, you'll find a folder named `logs`.
+Inside that there's a file called `latest.log`.
+You need to upload that file to one of the websites linked above.
+
 ### MultiMC
 
 If you're using MultiMC, click on `Edit Instance`, then on `Other logs`.
