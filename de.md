@@ -20,6 +20,7 @@ Bitte **nie** den Log als lange Nachricht in einen Chat posten!
 ## Wie komme ich an den Log?
 
 Du solltest den Log erst hochladen, wenn Minecraft wieder beendet wurde oder gecrashed ist.
+Je nach verwendetem Launcher gibt es verschiedene Vorgehensweisen, den Log zu finden.
 
 ### CurseForge
 
@@ -29,7 +30,7 @@ Du solltest den Log erst hochladen, wenn Minecraft wieder beendet wurde oder gec
 In CurseForge machst du einen Rechts-Klick auf das Modpack-Profil, dann auf `Ordner öffnen`.
 Dort gibt es den Ordner `logs`.
 Darin befindet sich eine Datei namens `latest.log`.
-Diese lädst du dann auf einer der Seiten hoch.
+Diese lädst du dann auf einer der oben genannten Seiten hoch.
 
 </details>
 
@@ -41,7 +42,7 @@ Diese lädst du dann auf einer der Seiten hoch.
 Im GD Launcher machst du einen Rechts-Klick auf das Modpack-Profil, dann auf `Open Folder`.
 Dort gibt es den Ordner `logs`.
 Darin befindet sich eine Datei namens `latest.log`.
-Diese lädst du dann auf einer der Seiten hoch.
+Diese lädst du dann auf einer der oben genannten Seiten hoch.
 
 </details>
 
@@ -66,7 +67,7 @@ In der FTP App klickst du dein Modpack-Profil an, dort rechts oben auf `Settings
 auf `Open Folder`.
 Dort gibt es den Ordner `logs`.
 Darin befindet sich eine Datei namens `latest.log`.
-Diese lädst du dann auf einer der Seiten hoch.
+Diese lädst du dann auf einer der oben genannten Seiten hoch.
 
 </details>
 
@@ -75,13 +76,9 @@ Diese lädst du dann auf einer der Seiten hoch.
 <details>
 <summary>Anzeigen</summary>
 
-*Hey du solltest überlegen zu [MultiMC](https://multimc.org/) zu wechseln.
-Damit geht vieles rund um Minecraft viel einfacher und du kannst auch ganz einfach ModPacks von CurseForge
-installieren.*
-
 In deinem `.minecraft` Ordner gibt es den Ordner `logs`.
 Darin befindet sich eine Datei namens `latest.log`.
-Diese lädst du dann auf einer der Seiten hoch.
+Diese lädst du dann auf einer der oben genannten Seiten hoch.
 
 </details>
 

@@ -18,9 +18,10 @@ You'll then get a link you can post in a help channel.
 * [https://paste.gemwire.uk](https://paste.gemwire.uk)
 * And many more.
 
-## How to I find the log?
+## How do I find the log?
 
 Before uploading the log, you should stop the game if it did not crash.
+Depending on the launcher you use, there are different ways of finding the log to upload.
 
 ### CurseForge
 
@@ -74,9 +75,6 @@ You need to upload that file to one of the websites linked above.
 
 <details>
 <summary>Show</summary>
-
-*Hey, you should think about switching to [MultiMC](https://multimc.org/).
-It makes many things related to minecraft much easier, and you can also easily install ModPacks from CurseForge.*
 
 In your `.minecraft` folder, you'll find a folder named `logs`.
 Inside that there's a file called `latest.log`.
