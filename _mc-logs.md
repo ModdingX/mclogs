@@ -1,6 +1,3 @@
-# [🇬🇧](#en) [🇩🇪](#de)
-
-<a name="en"></a>
 # Minecraft Logs
 
 If you've a problem with minecraft, and you want help from others, you need to send your minecraft log.

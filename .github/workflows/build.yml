@@ -18,7 +18,9 @@ jobs:
         shell: bash
         working-directory: base
         run: |
-          rm -rf .github .gitignore .gitattributes README.md LICENSE
+          rm -rf .gitignore .gitattributes README.md LICENSE
+          perl .github/workflows/anchors.pl
+          rm -rf .github
           
       - name: 'Commit and Push'
         shell: bash
