@@ -1,6 +1,3 @@
-# [🇬🇧](#en) [🇩🇪](#de) [NL](#nl)
-
-<a name="nl"></a>
 # Minecraft Logs
 
 Als je een probleem hebt met minecraft, en je wilt hulp van anderen, dan moet je jouw minecraft log sturen. 
@@ -51,7 +48,7 @@ Je moet dit bestand uploaden naar een van de bovenstaand gelinkte websites.
 <details>
 <summary>Tonen</summary>
 
-Als je MultiMc gebruikt, klik op `Instantie bewerken`, vervolgens op `Andere logs`. 
+Als je MultiMC gebruikt, klik op `Instantie bewerken`, vervolgens op `Andere logbestanden`. 
 Kies dan `logs/latest.log` in het keuzenmenu aan de bovenkant en klik op `Upload`.  
 Je krijgt een link die je kunt posten. 
 Een alternatief, je kunt meteen op `Upload` klikken in de `Minecraft Log` tab. 
