@@ -64,7 +64,7 @@ Tu devrais publier ce fichier via un des sites web mentionné.
 
 </details>
 
-# Important
+### Important
 
 * **Sans envoyer le journal, tu ne peux pas t'attendre à avoir de l'aide.**
   Si tu as des problèmes trouver le journal, on va aider avec ça.
