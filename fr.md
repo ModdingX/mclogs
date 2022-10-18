@@ -41,7 +41,7 @@ Tu devrais publier ce fichier via un des sites web mentionné.
 
 </details>
 
-### MultiMC / PolyMC
+### MultiMC
 
 <details>
 <summary>Afficher</summary>

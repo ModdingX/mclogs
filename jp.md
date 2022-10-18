@@ -44,7 +44,7 @@ GDLauncher を使用している場合は、パック プロファイルを右�
 
 </details>
 
-### MultiMC / PolyMC
+### MultiMC
 
 <details>
 <summary>見せる</summary>

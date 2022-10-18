@@ -43,7 +43,7 @@ Je moet dit bestand uploaden naar een van de bovenstaand gelinkte websites.
 
 </details>
 
-### MultiMC / PolyMC
+### MultiMC
 
 <details>
 <summary>Tonen</summary>

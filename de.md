@@ -43,7 +43,7 @@ Diese lädst du dann auf einer der oben genannten Seiten hoch.
 
 </details>
 
-### MultiMC / PolyMC
+### MultiMC
 
 <details>
 <summary>Anzeigen</summary>

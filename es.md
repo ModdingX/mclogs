@@ -43,7 +43,7 @@ Necesitas subir ese archivo a uno de los sitios mencionados arriba.
 
 </details>
 
-### MultiMC / PolyMC
+### MultiMC
 
 <details>
 <summary>Mostrar</summary>
