@@ -1,12 +1,12 @@
 # Minecraft Logs
 
-If you've a problem with minecraft, and you want help from others, you need to send your minecraft log.
-The log contains information and detailed error messages that help to find out what the error is.
+If you're having a problem with Minecraft and you need help from others, you'll need to submit your minecraft log.
+The log contains information and detailed error messages that are essential to find out what the error is.
 
-## How can I upload the log?
+## How do I upload the log?
 
-There is a variety of websites where it's possible to upload log files.
-You'll then get a link you can post in a help channel.
+There are several websites where you can upload log files.
+You'll be given a link which you can post in a help channel.
 **Never** send the log as one long message.
 
 * <https://pastebin.com>
@@ -19,17 +19,17 @@ You'll then get a link you can post in a help channel.
 ## How do I find the log?
 
 Before uploading the log, you should stop the game if it did not crash.
-Depending on the launcher you use, there are different ways of finding the log to upload.
+Depending on the launcher you use, there are different ways to find the log to upload.
 
 ### CurseForge
 
 <details>
 <summary>Show</summary>
 
-If you're using CurseForge, right-click your modpack profile, then `Open Folder`.
+If you're using CurseForge, right-click on your modpack profile, and then on `Open Folder`.
 There, you'll find a folder named `logs`.
-Inside that there's a file called `latest.log`.
-You need to upload that file to one of the websites linked above.
+Inside that folder there's a file called `latest.log`.
+You will need to upload this file to one of the websites linked above.
 </details>
 
 ### GD Launcher
@@ -37,10 +37,10 @@ You need to upload that file to one of the websites linked above.
 <details>
 <summary>Show</summary>
 
-If you're using GD Launcher, right-click your modpack profile, then `Open Folder`.
+If you're using GD Launcher, right-click on your modpack profile, then on `Open Folder`.
 There, you'll find a folder named `logs`.
-Inside that there's a file called `latest.log`.
-You need to upload that file to one of the websites linked above.
+Inside that folder there's a file called `latest.log`.
+You will need to upload this file to one of the websites linked above.
 
 </details>
 
@@ -50,9 +50,9 @@ You need to upload that file to one of the websites linked above.
 <summary>Show</summary>
 
 If you're using MultiMC, click on `Edit Instance`, then on `Other logs`.
-Now choose `logs/latest.log` in the selector at the top and click on `Upload`.
+Now select `logs/latest.log` from the drop-down menu at the top and click on `Upload`.
 You'll get a link that you can post.
-Alternatively, you can directly press `Upload` in the `Minecraft Log` tab.
+Alternatively, you can click `Upload` directly in the `Minecraft Log` tab.
 
 </details>
 
@@ -61,11 +61,11 @@ Alternatively, you can directly press `Upload` in the `Minecraft Log` tab.
 <details>
 <summary>Show</summary>
 
-If you're using FTB App, click on your modpack profile, then `Settings` in the top right corner. After that, you press
-`Open Folder` in the bottom left corner.
+If you're using FTB App, click on your modpack profile and then on `Settings` in the top right corner.
+Then press `Open Folder` in the bottom left corner.
 There, you'll find a folder named `logs`.
-Inside that there's a file called `latest.log`.
-You need to upload that file to one of the websites linked above.
+Inside that folder there's a file called `latest.log`.
+You will need to upload this file to one of the websites linked above.
 
 </details>
 
@@ -74,9 +74,9 @@ You need to upload that file to one of the websites linked above.
 <details>
 <summary>Show</summary>
 
-In your `.minecraft` folder, you'll find a folder named `logs`.
-Inside that there's a file called `latest.log`.
-You need to upload that file to one of the websites linked above.
+Inside your `.minecraft` folder, you'll find a folder named `logs`.
+Inside that folder there's a file called `latest.log`.
+You will need to upload this file to one of the websites linked above.
 
 </details>
 
@@ -84,5 +84,5 @@ You need to upload that file to one of the websites linked above.
 
 * **Without providing a log, you shouldn't expect any help.**
   However, if you've problems finding the log, don't hesitate to ask for help.
-* **If you post your log as a long message into chat, you shouldn't expect any help.**
+* **If you post your log as a long message in chat, you shouldn't expect any help.**
 * **The LOG is not the same as the CRASH REPORT. Please read the instructions above.**
