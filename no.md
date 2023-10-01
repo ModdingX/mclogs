@@ -60,11 +60,13 @@ Alternativt kan du trykke på `Upload` i `Minecraft Log` fanen.
 
 <details>
 <summary>Vis</summary>
+
 Hvis du bruker FTB Appen, klikk på modpack profilen og deretter `Settings` øverst til høyre.
 Etter det trykker du `Open Folder` i nedre venstre hjørne.
 Der finner du en mappe som heter `logs`.
 Inne i den mappen er det en fil som heter `latest.log`.
 Det er denne filen som må lastes opp til en av nettsidene linket over.
+
 </details>
 
 ### Other Launchers
