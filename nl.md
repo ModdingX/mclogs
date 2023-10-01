@@ -9,10 +9,11 @@ Er zijn verschillende websites die het mogelijk maken om een log te uploaden.
 Je krijgt dan een link die je kunt posten in een hulp kanaal. 
 Stuur **nooit** een log als een lang bericht. 
 
-* [https://pastebin.com](https://pastebin.com)
-* [https://gist.github.com](https://gist.github.com)
-* [https://paste.ee](https://paste.ee)
-* [https://paste.gemwire.uk](https://paste.gemwire.uk)
+* <https://pastebin.com>
+* <https://gist.github.com>
+* <https://paste.ee>
+* <https://mclo.gs>
+* <https://paste.gemwire.uk>
 * En vele anderen.
 
 ## Hoe kan ik een log vinden?

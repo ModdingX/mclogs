@@ -9,10 +9,11 @@ There is a variety of websites where it's possible to upload log files.
 You'll then get a link you can post in a help channel.
 **Never** send the log as one long message.
 
-* [https://pastebin.com](https://pastebin.com)
-* [https://gist.github.com](https://gist.github.com)
-* [https://paste.ee](https://paste.ee)
-* [https://paste.gemwire.uk](https://paste.gemwire.uk)
+* <https://pastebin.com>
+* <https://gist.github.com>
+* <https://paste.ee>
+* <https://mclo.gs>
+* <https://paste.gemwire.uk>
 * And many more.
 
 ## How do I find the log?

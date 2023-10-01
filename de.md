@@ -8,10 +8,11 @@ Der Minecraft Log enthält Informationen und detaillierte Fehlermeldungen, um he
 Es gibt verschiedene Websites, wo man Log-Dateien hochladen kann und dann einen Link dazu posten kann.
 Bitte **nie** den Log als lange Nachricht in einen Chat posten!
 
-* [https://pastebin.com](https://pastebin.com)
-* [https://gist.github.com](https://gist.github.com)
-* [https://paste.ee](https://paste.ee)
-* [https://paste.gemwire.uk](https://paste.gemwire.uk)
+* <https://pastebin.com>
+* <https://gist.github.com>
+* <https://paste.ee>
+* <https://mclo.gs>
+* <https://paste.gemwire.uk>
 * Und viele mehr.
 
 ## Wie komme ich an den Log?

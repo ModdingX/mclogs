@@ -9,10 +9,11 @@ Det er mange nettsider hvor man kan laste opp logg filer.
 Du vil få en link som du kan sende i en hjelpe-kanal.
 Send **aldri** loggen som en lang melding.
 
-* [https://pastebin.com](https://pastebin.com)
-* [https://gist.github.com](https://gist.github.com)
-* [https://paste.ee](https://paste.ee)
-* [https://paste.gemwire.uk](https://paste.gemwire.uk)
+* <https://pastebin.com>
+* <https://gist.github.com>
+* <https://paste.ee>
+* <https://mclo.gs>
+* <https://paste.gemwire.uk>
 * Og mange andre
 
 ## Hvordan finner jeg loggen?

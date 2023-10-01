@@ -8,10 +8,11 @@
 
 लोग को खबि एक लम्बे मैसेज जैसा **न भेजे**। 
 
-* [https://pastebin.com](https://pastebin.com)
-* [https://gist.github.com](https://gist.github.com)
-* [https://paste.ee](https://paste.ee)
-* [https://paste.gemwire.uk](https://paste.gemwire.uk)
+* <https://pastebin.com>
+* <https://gist.github.com>
+* <https://paste.ee>
+* <https://mclo.gs>
+* <https://paste.gemwire.uk>
 * और भी कई
 
 ## लोग की खोज कैसे की जाये?

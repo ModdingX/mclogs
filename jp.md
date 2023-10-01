@@ -10,10 +10,11 @@ Minecraft に問題があり、他の人からの助けが必要な場合は、M
 
 ***ログを 1 つの長いメッセージとして送信しない。***
 
-* [https://pastebin.com](https://pastebin.com)
-* [https://gist.github.com](https://gist.github.com)
-* [https://paste.ee](https://paste.ee)
-* [https://paste.gemwire.uk](https://paste.gemwire.uk)
+* <https://pastebin.com>
+* <https://gist.github.com>
+* <https://paste.ee>
+* <https://mclo.gs>
+* <https://paste.gemwire.uk>
 * などなど。
 
 ## ログを見つけるにはどうすればよいですか？

@@ -8,10 +8,11 @@ Le journal contient des informations et messages d'erreur en détail nécessaire
 Il y a beaucoup des sites Internet, où on peut envoyer un journal.
 N'envoie **jamais** le journal dans un long message de chat!
 
-* [https://pastebin.com](https://pastebin.com)
-* [https://gist.github.com](https://gist.github.com)
-* [https://paste.ee](https://paste.ee)
-* [https://paste.gemwire.uk](https://paste.gemwire.uk)
+* <https://pastebin.com>
+* <https://gist.github.com>
+* <https://paste.ee>
+* <https://mclo.gs>
+* <https://paste.gemwire.uk>
 * Et beaucoup plus.
 
 ### Comment est-ce que je trouve les logs?

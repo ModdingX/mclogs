@@ -6,10 +6,11 @@ Se hai un problema con Minecraft e desideri ottenere assistenza dagli altri, è 
 
 Ci sono vari siti web in cui è possibile caricare i file di log. Riceverai quindi un link che potrai condividere in un canale di assistenza. **Non** inviare mai il log come un unico messaggio lungo.
 
-* [https://pastebin.com](https://pastebin.com)
-* [https://gist.github.com](https://gist.github.com)
-* [https://paste.ee](https://paste.ee)
-* [https://paste.gemwire.uk](https://paste.gemwire.uk)
+* <https://pastebin.com>
+* <https://gist.github.com>
+* <https://paste.ee>
+* <https://mclo.gs>
+* <https://paste.gemwire.uk>
 * E molti altri.
 
 ## Come trovo il log?
