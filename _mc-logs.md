@@ -32,6 +32,17 @@ Inside that folder there's a file called `latest.log`.
 You will need to upload this file to one of the websites linked above.
 </details>
 
+### Modrinth App
+
+<details>
+<summary>Show</summary>
+
+In the Modrinth app, open your modpack profile and select `Logs` in the left hand menu.
+Now use the drop down menu to select `Latest Log` and click on `Share`.
+You'll the be given a link to share.
+
+</details>
+
 ### GD Launcher
 
 <details>
@@ -49,9 +60,9 @@ You will need to upload this file to one of the websites linked above.
 <details>
 <summary>Show</summary>
 
-If you're using MultiMC, click on `Edit Instance`, then on `Other logs`.
+In MultiMC, click on `Edit Instance`, then on `Other logs`.
 Now select `logs/latest.log` from the drop-down menu at the top and click on `Upload`.
-You'll get a link that you can post.
+You'll the be given a link to share.
 Alternatively, you can click `Upload` directly in the `Minecraft Log` tab.
 
 </details>
@@ -61,7 +72,7 @@ Alternatively, you can click `Upload` directly in the `Minecraft Log` tab.
 <details>
 <summary>Show</summary>
 
-If you're using FTB App, click on your modpack profile and then on `Settings` in the top right corner.
+In the FTB App, click on your modpack profile and then on `Settings` in the top right corner.
 Then press `Open Folder` in the bottom left corner.
 There, you'll find a folder named `logs`.
 Inside that folder there's a file called `latest.log`.

@@ -32,6 +32,17 @@ Diese solltest du auf einer der oben genannten Seiten hochladen.
 
 </details>
 
+### Modrinth App
+
+<details>
+<summary>Anzeigen</summary>
+
+In der Modrinth-App wählst du dein Modpack-Profil aus.
+Klicke nun auf der linken Seite auf `Logs`, wähle `Latest Log` aus dem Dropdown-Menü und klicke auf `Share`.
+Du erhältst nun einen Link, den du posten kannst.
+
+</details>
+
 ### GD Launcher
 
 <details>
@@ -50,7 +61,7 @@ Diese solltest du auf einer der oben genannten Seiten hochladen.
 <summary>Anzeigen</summary>
 
 In MultiMC klickst du auf `Instanz Bearbeiten`, dann auf `Andere Logs`, wählst oben `logs/latest.log` und klickst dann auf `Hochladen`.
-Du erhälst nun einen Link, den du posten kannst.
+Du erhältst nun einen Link, den du posten kannst.
 Alternativ kannst du auch direkt im Tab `Minecraft Log` oben rechts auf `Hochladen` klicken.
 
 </details>
