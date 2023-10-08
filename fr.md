@@ -31,6 +31,17 @@ Tu devrais publier ce fichier via l'un des sites web mentionné.
 
 </details>
 
+### Modrinth App
+
+<details>
+<summary>Show</summary>
+
+Dans l'application Modrinth, ouvre le profil de ton modpack et sélectionne `Logs` dans le menu à gauche.
+Utilise ensuite le menu déroulant pour sélectionner `Latest Log` et clique sur `Share`. 
+Un lien te sera donné pour partager.
+
+</details>
+
 ### GD Launcher
 
 <details>
@@ -51,6 +62,19 @@ Dans MultiMC, clique sur `Modifier l'instance`, puis sur `Autres journaux` et s�
 Pour envoyer le log via <https://paste.ee>, clique `Envoyer`.
 Tu recevras un lien que tu pourras partager dans un chat.
 Une autre possibilité est de cliquer sur `Envoyer` dans l'onglet `Journal de Minecraft`.
+
+</details>
+
+### FTB App
+
+<details>
+<summary>Show</summary>
+
+Dans l'application FTB, clique sur le profil de ton modpack puis sur `Settings` dans le coin supérieur droit.
+Appuie ensuite sur `Open Folder` dans le coin inférieur gauche.
+Là, tu trouveras un dossier nommé `logs`.
+À l'intérieur de ce dossier, il y a un fichier nommé `latest.log`.
+Tu devrais publier ce fichier via un des sites web mentionné.
 
 </details>
 
