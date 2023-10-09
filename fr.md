@@ -1,12 +1,12 @@
-# Logs de Minecraft
+# Logs Minecraft
 
-Si tu as un problème avec Minecraft et tu souhaites l'aide des autres, tu dois envoyer le journal.
-Le journal contient des informations et messages d'erreur en détail nécessaires pour trouver des erreurs.
+Si tu rencontres un problème avec Minecraft et que tu souhaites obtenir de l'aide, il est nécessaire d'envoyer le log (journal).
+Le log contient des informations et des messages d'erreur détaillés qui sont nécessaires pour identifier les problèmes.
 
-### Comment est-ce que je peux envoyer les logs?
+### Comment envoyer le log ?
 
-Il y a beaucoup des sites Internet, où on peut envoyer un journal.
-N'envoie **jamais** le journal dans un long message de chat!
+Il existe de nombreux sites web où tu peux envoyer un log.
+N'envoie **jamais** le log sous forme de long message dans un chat !
 
 * <https://pastebin.com>
 * <https://gist.github.com>
@@ -15,19 +15,30 @@ N'envoie **jamais** le journal dans un long message de chat!
 * <https://paste.gemwire.uk>
 * Et beaucoup plus.
 
-### Comment est-ce que je trouve les logs?
+### Où trouver le log ?
 
-Si Minecraft n'a pas planté, tu devrais terminer le jeu avant envoyer le journal.
-La façon de trouver le journal varie selon le Launcher que t'utilise.
+Si Minecraft n'a pas planté, tu devrais stopper le jeu avant d'envoyer le log.
+La façon de trouver le log varie selon le launcher que tu utilises.
 
 ### CurseForge
 
 <details>
 <summary>Afficher</summary>
 
-En menu contextuel de ta instance de modpack, tu clique à `Ouvrir dossier`.
-Dans cette dossier tu vas trouver un dossier avec nom `logs` qui contient un fichier `latest.log`.
-Tu devrais publier ce fichier via un des sites web mentionné.
+Dans le menu contextuel de ton instance de modpack, clique sur `Ouvrir dossier`.
+Dans ce dossier, tu trouveras un sous-dossier nommé `logs` qui contient un fichier `latest.log`.
+Tu devrais publier ce fichier via l'un des sites web mentionné.
+
+</details>
+
+### Modrinth App
+
+<details>
+<summary>Show</summary>
+
+Dans l'application Modrinth, ouvre le profil de ton modpack et sélectionne `Logs` dans le menu à gauche.
+Utilise ensuite le menu déroulant pour sélectionner `Latest Log` et clique sur `Share`. 
+Un lien te sera donné pour partager.
 
 </details>
 
@@ -36,8 +47,8 @@ Tu devrais publier ce fichier via un des sites web mentionné.
 <details>
 <summary>Afficher</summary>
 
-En menu contextuel de ta instance de modpack, tu clique à `Open Folder`.
-Dans ce dossier tu vas trouver un dossier avec nom `logs` qui contient un fichier `latest.log`.
+Dans le menu contextuel de l'instance du modpack, clique sur `Open Folder`.
+Dans ce dossier, tu trouveras un sous-dossier nommé `logs` qui contient un fichier nommé `latest.log`.
 Tu devrais publier ce fichier via un des sites web mentionné.
 
 </details>
@@ -47,10 +58,23 @@ Tu devrais publier ce fichier via un des sites web mentionné.
 <details>
 <summary>Afficher</summary>
 
-En MultiMC, tu clique sur `Modifier l'instance`, puis sur `Autres journaux` et tu sélectes `latest.log`.
-Pour envoyer le journal à paste.ee, tu clique `Envoyer`.
-Tu vas recevoir un lien que tu peux ecrire dans un chat.
-Une autre possibilité est cliquer sur `Envoyer` en l'onglet `Journal de Minecraft`.
+Dans MultiMC, clique sur `Modifier l'instance`, puis sur `Autres journaux` et sélectionne `latest.log`.
+Pour envoyer le log via <https://paste.ee>, clique `Envoyer`.
+Tu recevras un lien que tu pourras partager dans un chat.
+Une autre possibilité est de cliquer sur `Envoyer` dans l'onglet `Journal de Minecraft`.
+
+</details>
+
+### FTB App
+
+<details>
+<summary>Show</summary>
+
+Dans l'application FTB, clique sur le profil de ton modpack puis sur `Settings` dans le coin supérieur droit.
+Appuie ensuite sur `Open Folder` dans le coin inférieur gauche.
+Là, tu trouveras un dossier nommé `logs`.
+À l'intérieur de ce dossier, il y a un fichier nommé `latest.log`.
+Tu devrais publier ce fichier via un des sites web mentionné.
 
 </details>
 
@@ -59,15 +83,15 @@ Une autre possibilité est cliquer sur `Envoyer` en l'onglet `Journal de Minecra
 <details>
 <summary>Afficher</summary>
 
-Dans le dossier `.minecraft`, il y a un autre dossier avec le nom `logs`.
-Dans ce dossier tu vas trouver un le fichier `latest.log`.
+Dans le dossier `.minecraft`, tu trouveras normalement un sous-dossier nommé `logs`.
+Dans ce dossier tu vas trouver un fichier nommé `latest.log`.
 Tu devrais publier ce fichier via un des sites web mentionné.
 
 </details>
 
 ### Important
 
-* **Sans envoyer le journal, tu ne peux pas t'attendre à avoir de l'aide.**
-  Si tu as des problèmes trouver le journal, on va aider avec ça.
-* **Si tu envoies le journal dans un long message de chat, tu ne peux pas t'attendre à avoir de l'aide.**
-* **Le JOURNAL n'est pas le RAPPORT D'ERREUR, lis les instructions ici.**
+* **Sans envoyer le log, tu ne peux pas t'attendre à avoir de l'aide.**
+  Si tu as des problèmes trouver le log, on va aider avec ça.
+* **Si tu envoies le log dans un long message de chat, ne t'attends pas à recevoir de l'aide.**
+* **Note bien que le LOG n'est pas la même chose qu'un CRASH REPORT; lis les instructions ci-dessus pour plus d'informations.**
