@@ -17,7 +17,7 @@
 
 قبل تحميل السجل، يجب عليك إيقاف اللعبة إذا لم تتعطل. وفقًا لمنصة التشغيل التي تستخدمها، هناك طرق مختلفة للعثور على السجل لتحميله.
 
-### CurseForge
+### &#8207;CurseForge
 
 <details>
 <summary>عرض</summary>
@@ -40,7 +40,7 @@
 
 </details>
 
-### GD Launcher
+### &#8207;GD Launcher
 
 <details>
 <summary>عرض</summary>
@@ -52,7 +52,7 @@
 
 </details>
 
-### MultiMC
+### &#8207;MultiMC
 
 <details>
 <summary>عرض</summary>
