@@ -55,7 +55,7 @@ You will need to upload this file to one of the websites linked above.
 
 </details>
 
-### MultiMC
+### MultiMC / Prism Launcher
 
 <details>
 <summary>Show</summary>

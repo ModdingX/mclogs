@@ -44,7 +44,7 @@ Necesitas subir ese archivo a uno de los sitios mencionados arriba.
 
 </details>
 
-### MultiMC
+### MultiMC / Prism Launcher
 
 <details>
 <summary>Mostrar</summary>

@@ -47,7 +47,7 @@
 उसी को आपको ऊपर दिए गए वेसीटेस में अपलोड करना होगा।  
 </details>
 
-### MultiMC
+### MultiMC / Prism Launcher
 
 <details>
 <summary>प्रदर्शन</summary>

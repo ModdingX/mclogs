@@ -45,7 +45,7 @@ GDLauncher を使用している場合は、パック プロファイルを右�
 
 </details>
 
-### MultiMC
+### MultiMC / Prism Launcher
 
 <details>
 <summary>見せる</summary>

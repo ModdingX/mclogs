@@ -53,7 +53,7 @@ Tu devrais publier ce fichier via un des sites web mentionné.
 
 </details>
 
-### MultiMC
+### MultiMC / Prism Launcher
 
 <details>
 <summary>Afficher</summary>
