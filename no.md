@@ -45,7 +45,7 @@ Det er denne filen som må lastes opp til en av nettsidene linket over.
 
 </details>
 
-### MultiMC / Prism Launcher
+### MultiMC / PrismLauncher
 
 <details>
 <summary>Vis</summary>

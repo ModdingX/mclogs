@@ -44,7 +44,7 @@ Je moet dit bestand uploaden naar een van de bovenstaand gelinkte websites.
 
 </details>
 
-### MultiMC
+### MultiMC / PrismLauncher
 
 <details>
 <summary>Tonen</summary>

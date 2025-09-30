@@ -37,7 +37,7 @@ Troverai una cartella chiamata `logs`. All'interno troverai un file chiamato `la
 Devi caricare quel file su uno dei siti web linkati sopra.
 </details>
 
-### MultiMC / Prism Launcher
+### MultiMC / PrismLauncher
 
 <details>
 <summary>Mostra</summary>

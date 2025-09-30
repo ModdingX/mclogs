@@ -52,7 +52,7 @@
 
 </details>
 
-### &#8207;MultiMC
+### &#8207;MultiMC / PrismLauncher
 
 <details>
 <summary>عرض</summary>

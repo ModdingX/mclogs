@@ -55,7 +55,7 @@ Diese solltest du auf einer der oben genannten Seiten hochladen.
 
 </details>
 
-### MultiMC / Prism Launcher
+### MultiMC / PrismLauncher
 
 <details>
 <summary>Anzeigen</summary>
