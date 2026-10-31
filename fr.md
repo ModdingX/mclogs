@@ -15,7 +15,7 @@ N'envoie **jamais** le log sous forme de long message dans un chat !
 * <https://paste.gemwire.uk>
 * Et beaucoup plus.
 
-### Où trouver le log?
+### Où trouver le log ?
 
 Si Minecraft n'a pas planté, tu devrais stopper le jeu avant d'envoyer le log.
 La façon de trouver le log varie selon le launcher que tu utilises.
